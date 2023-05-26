@@ -1,0 +1,12 @@
+.cent{/* Centra el contenido */
+    display: flex; 
+    justify-content: center;
+}
+@media (max-width: 576px) {
+    .cent{/* Centra contenido cuando la pantalla mida menos de 576 px */
+        display: flex; 
+        justify-content: center;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
