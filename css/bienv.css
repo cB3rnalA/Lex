@@ -16,6 +16,10 @@
     padding-right: 15%;/* paddings dan el espacio a los lados, con porcentaje para que se adapte bien */
     align-items: center;/* alinea las imagenes al centro de la pantalla */
 }
+.wa{
+    margin-top: 20%;
+    background-color: rgb(8, 87, 206)
+}
 
 @media (max-width: 576px) {
     .cent {
