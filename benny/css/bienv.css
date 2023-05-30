@@ -197,11 +197,9 @@
 /*quienes somos*/
 
 .contenedor {
-
-    
     display: flex;
     background-color: darkkhaki;
-    padding: 50px;
+    /* padding: 50px; */
 }
 
 .txt {
