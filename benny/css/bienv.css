@@ -81,8 +81,9 @@
 }
 
 .wa {
-    margin-top: 20%;
-    background-color: rgb(8, 87, 206);
+    margin-top: 5%;
+    background-color: rgb(0, 0, 0);
+    height: 5px;
 }
 
 /* formulario */
@@ -193,18 +194,24 @@
     color: #000000;
 }
 
-/*nosotros*/
+/*quienes somos*/
 
 .contenedor {
 
-    margin-top: 20px;
+    
     display: flex;
     background-color: darkkhaki;
-    padding: 40px;
+    padding: 50px;
 }
 
 .txt {
     padding-left: 25px;
+}
+
+.wan {
+
+    background-color: rgb(0, 0, 0);
+    height: 5px;
 }
 
 /*cartas con botones*/
